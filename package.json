@@ -1,0 +1,19 @@
+{
+  "name": "ByteLogs",
+  "version": "0.0.1",
+  "description": "It&#39;s a mirror of ByteLogs repo",
+  "main": "index.js",
+  "authors": {
+    "name": "Sarfaraz",
+    "email": "sarfaraz.sco@gmail.com"
+  },
+  "repository": "https://github.com/Muhammad-Sarfaraz/ByteLogs//ByteLogs",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
